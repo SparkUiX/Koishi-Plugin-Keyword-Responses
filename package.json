@@ -1,0 +1,29 @@
+{
+  "name": "koishi-plugin-keyword-response",
+  "description": "检测特定用户是否发送了某关键字，如果有则触发随机回复",
+  "version": "1.1.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "contributors": [
+    "SparkUiX <thoe9008@outlook.com>"
+  ],
+  "homepage": "https://github.com/SparkUiX/Koishi-Plugin-Keyword-Responses",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "keyword",
+    "response",
+    "reply",
+    "关键字",
+    "回复"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.17.2"
+  }
+}
